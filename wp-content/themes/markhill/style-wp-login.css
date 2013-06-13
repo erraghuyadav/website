@@ -1,0 +1,14 @@
+body.login {
+  	background:#FFF url(_/img/back.jpg) fixed 0 0!important;
+  	}
+  
+.login h1 a {
+	background:#ec0b8f url(_/img/logo-main.png) no-repeat center center!important;
+	margin: 0 auto 20px;
+    padding: 60px 0;
+    width: 200px;
+	}
+
+.login #nav a, .login #backtoblog a {
+	color:#ec0b8f!important;
+	}
